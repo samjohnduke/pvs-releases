@@ -8,7 +8,7 @@ of text / image / audio / video posts.
 
 ## Install
 
-Linux (x86_64) and macOS (Apple silicon / Intel):
+Linux (x86_64) and macOS (Apple silicon):
 
 ```sh
 curl -fsSL https://samjohnduke.github.io/pvs/install.sh | sh
